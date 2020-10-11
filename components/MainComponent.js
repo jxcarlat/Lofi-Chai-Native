@@ -1,17 +1,43 @@
 import React, { Component } from 'react';
 import Directory from './DirectoryComponent';
-import { TEAS } from '../shared/teas';
+import TeaInfo from './TeaInfoComponent';
+import { View, Platform } from 'react-native';
+import { createStackNavigator } from 'react-navigation-stack';
+import { createAppContainer } from 'react-navigation';
+
+const DirectoryNavigator = createStackNavigator(
+    {
+        Directory: { screen: Directory },
+        TeaInfo: { screen: TeaInfo }
+    },
+    {
+        initialRouteName: 'Directory',
+        defaultNavigationOptions: {
+            headerStyle: {
+                backgroundColor: '#7F00AD'
+            },
+            headerTintColor: '#fff',
+            headerTitleStyle: {
+                color: '#fff'
+            }
+        }
+    }
+);
+
+const AppNavigator = createAppContainer(DirectoryNavigator);
 
 class Main extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            teas: TEAS
-        };
-    }
-
     render() {
-        return <Directory teas={this.state.teas} />;
+        return (
+            <View 
+                style={{
+                    flex: 1,
+                    paddingTop: Platform.OS === 'ios' ? 0 : Expo.Constants.statusBarHeight
+                }}
+            >
+                <AppNavigator />
+            </View>
+        );
     }
 }
 

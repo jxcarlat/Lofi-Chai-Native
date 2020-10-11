@@ -1,25 +1,42 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { FlatList } from 'react-native';
 import { ListItem } from 'react-native-elements';
+import { TEAS } from '../shared/teas';
 
-function Directory(props) {
+class Directory extends Component {
 
-    const renderDirectoryItem = ({item}) => {
-        return (
-            <ListItem
-                title={item.header}
-                subtitle={item.caption}
-                leftAvatar={{ source: require('./images/black-tea.jpg')}}
-            />
-        )
+    constructor(props) {
+        super(props);
+        this.state = {
+            teas: TEAS
+        };
+    }
+
+    static navigationOptions = {
+        title: 'Directory'
     };
-    return (
-        <FlatList
-            data={props.teas}
-            renderItem={renderDirectoryItem}
-            keyExtractor={item => item.key}
-        />
-    );
+
+    render() {
+        const { navigate } = this.props.navigation;
+        const renderDirectoryItem = ({item}) => {
+            return (
+                <ListItem
+                    title={item.header}
+                    subtitle={item.caption}
+                    onPress={() => navigate('TeaInfo', { teaId: item.key })}
+                    leftAvatar={{ source: require('./images/black-tea.jpg')}}
+                />
+            );
+        };
+
+        return (
+            <FlatList
+                data={this.state.teas}
+                renderItem={renderDirectoryItem}
+                keyExtractor={item => item.key}
+            />
+        );
+    }
 }
 
 export default Directory;
