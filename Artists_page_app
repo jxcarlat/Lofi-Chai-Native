@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T20:42:48.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="-qZzTUn3DvfTp0xQaQ8a" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T21:01:26.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="lXsLJj_LU_zXD0mFU5WK" version="13.8.0" type="github">
   <diagram id="asxL26AmcFHZgkzk0T_s" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -78,6 +78,9 @@
         </mxCell>
         <mxCell id="YkBnwwvKLRP-ZMgaDZiV-26" value="(Menu will be placed somewhere on this page alongside event specials/discounts, unsure where it will show up though)&lt;br&gt;|&lt;br&gt;|&lt;br&gt;v" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="220" width="150" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YkBnwwvKLRP-ZMgaDZiV-29" value="Teas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="121" y="353" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
