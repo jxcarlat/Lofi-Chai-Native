@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T20:51:40.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" version="13.8.0" etag="JPYHvpfufJRP-H_9Finf" type="github"><diagram id="8XMcTmnrFeu4Gff5WJMd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-19T21:00:23.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="aRzMTikQgZM3u1hr7v4X" version="13.8.0" type="github">
+  <diagram id="8XMcTmnrFeu4Gff5WJMd" name="Page-1">
+    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="t3oCTowx44653O16I0xG-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="105" y="70" width="690" height="690" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="70" width="689" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-3" value="&lt;font style=&quot;font-size: 24px&quot; face=&quot;NiteClub&quot; data-font-src=&quot;https://www.dafont.com/nite-club.font&quot;&gt;&lt;b&gt;Lofi Chai&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="130" width="180" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-5" value="&lt;b&gt;MP3 Player&lt;/b&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="700" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-6" value="&lt;b&gt;Skip/Pause/Play&lt;/b&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="730" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-7" value="&lt;b&gt;Volume Slider&lt;/b&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="442.5" y="730" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-8" value="Home" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125.00000000000001" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-9" value="About" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-10" value="Events" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-11" value="Rooms" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-12" value="Tracks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-13" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;---&amp;nbsp; (Pull out slider will navigate to corresponding pages)&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="130" width="295" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-14" value="&lt;h1&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;&amp;lt;---&amp;nbsp; (MP3 player sticks to bottom while navigating)&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="710" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Tracks&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="57" y="20" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="168" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-20" value="&lt;h1&gt;&lt;font face=&quot;niteclub&quot; style=&quot;font-size: 18px&quot;&gt;Track 2&lt;/font&gt;&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="273" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-21" value="&lt;h1&gt;&lt;font face=&quot;niteclub&quot; style=&quot;font-size: 18px&quot;&gt;Track 3&lt;/font&gt;&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="377" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-22" value="&lt;h1&gt;&lt;font face=&quot;niteclub&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Track 1&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="198" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-23" value="&lt;h1&gt;&lt;font face=&quot;niteclub&quot; style=&quot;font-size: 18px&quot;&gt;Track 4&lt;/font&gt;&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="481" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-24" value="&lt;h1&gt;&lt;font face=&quot;niteclub&quot; style=&quot;font-size: 18px&quot;&gt;Track 5&lt;/font&gt;&lt;/h1&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="590" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-26" value="&lt;span style=&quot;text-align: left&quot;&gt;Track 1 will be displayed and artist information and picture can be enlarged when pressed.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="168" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-27" value="&lt;span style=&quot;text-align: left&quot;&gt;Track 2 will be displayed and artist information and picture can be enlarged when pressed.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="273" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-28" value="&lt;span style=&quot;text-align: left&quot;&gt;Track 3 will be displayed and artist information and picture can be enlarged when pressed.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="373" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-29" value="&lt;span style=&quot;text-align: left&quot;&gt;Track 4 will be displayed and artist information and picture can be enlarged when pressed.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="477" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="t3oCTowx44653O16I0xG-30" value="&lt;span style=&quot;text-align: left&quot;&gt;Track 5 will be displayed and artist information and picture can be enlarged when pressed.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="575" width="120" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
